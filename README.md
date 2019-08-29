@@ -1,6 +1,6 @@
 # font-test
 
-> My superior Nuxt.js project
+> This is for testing the font configuration in nuxt/vuetify module
 
 ## Build Setup
 
