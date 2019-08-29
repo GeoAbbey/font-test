@@ -1,7 +1,7 @@
 {
   "name": "font-test",
   "version": "1.0.0",
-  "description": "My superior Nuxt.js project",
+  "description": "This is for testing the font configuration in nuxt/vuetify module",
   "author": "Ismail Olasunkanmi",
   "private": true,
   "scripts": {
