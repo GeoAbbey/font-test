@@ -1,0 +1,23 @@
+{
+  "name": "font-test",
+  "version": "1.0.0",
+  "description": "My superior Nuxt.js project",
+  "author": "Ismail Olasunkanmi",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.9.1",
+    "nuxt-webfontloader": "^1.1.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.5.0",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.16.4"
+  }
+}
